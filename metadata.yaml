@@ -5,6 +5,9 @@ contributor:
     agent_name: Luce, Siméon
     gutenberg_agent_id: '56665'
     url: http://www.gutenberg.org/2009/agents/56665
+covers:
+- cover_type: archival
+  image_path: 72385-h/images/cover.jpg
 creator:
   author:
     agent_name: Froissart, Jean
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Froissart
     - https://fr.wikipedia.org/wiki/Jean_Froissart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72385#Chroniques-de-J-Froissart-tome-0313-b-1342-1346-Depuis-la-treve-entre-Jeanne-de-Montfort-et-C_
 gutenberg_issued: '2023-12-12'
 gutenberg_type: Text
 identifiers:
